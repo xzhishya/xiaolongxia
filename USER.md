@@ -6,7 +6,7 @@ _Learn about the person you're helping. Update this as you go._
 - **What to call them:** Xu Xu
 - **Pronouns:** _(optional)_
 - **Timezone:** Asia/Shanghai
-- **Notes:** 希望助手在其指挥下协助写代码；可直接执行实现、修改、整理与提交相关开发工作。
+- **Notes:** 希望助手在其指挥下协助写代码；可直接执行实现、修改、整理与提交相关开发工作。默认开发工作流：先读代码/上下文，再给方案或直接改；改完尽量自测；默认只提交本次相关文件；提交前给一句简短汇报。
 
 ## Context
 
