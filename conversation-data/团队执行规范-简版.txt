@@ -1,0 +1,40 @@
+团队执行规范（简版）
+
+1. 每次客户会议、项目会议、部门组会，至少保留 2 项：
+   - meeting-record.html / meeting-record.docx（合并版：元信息 + 会议纪要 + 下一步计划）
+   - transcript.txt
+
+2. 条件允许时补充：
+   - raw-audio.*
+   - customer-needs.html / .docx
+   - risk-review.html / .docx
+   - team-observation.html / .docx（仅内部）
+   - attachments\
+
+3. 客户会议目录：
+   conversation-data\clients\客户名\项目名\YYYY-MM-DD-会议类型\
+
+4. 内部组会目录：
+   conversation-data\internal\部门名\meetings\YYYY-MM-DD-会议类型\
+
+5. 会后 10 分钟内：
+   - 建目录
+   - 先填 meeting-record 的元信息部分
+   - 存 transcript.txt
+   - 存录音和附件
+
+6. 会后 30 分钟内：
+   - 完成 meeting-record
+   - 有需求变化补 customer-needs
+   - 有风险补 risk-review
+
+7. 每周一次：
+   - 更新项目或部门总台账
+   - 跟踪逾期事项
+   - 标记新增和升级风险
+
+8. 客户目录只写客户相关事实、结论、承诺、风险、下一步动作。
+   内部目录再写资源矛盾、责任问题、延期原因、升级事项。
+
+9. 行动项必须写明：事项、负责人、截止时间。
+10. 不确定内容统一标：待确认 / TBD。
